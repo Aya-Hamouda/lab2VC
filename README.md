@@ -27,4 +27,5 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://www.mit.edu/)
 
-[![python logo](https://github.com/Aya-Hamouda/lab2VC/commit/3f3336316d0c1cd7a4b00af094e27af0f464c77d)]
+
+![image](https://github.com/Aya-Hamouda/lab2VC/blob/main/images/logo.png)
